@@ -5,6 +5,7 @@ export default function Home() {
     <main className="bg-slate-600 flex min-h-screen flex-col items-center justify-between p-24">
       <div>
         <h1 className='flex px-20 py-4 rounded drop-shadow-2xl bg-cyan-300'>Harith Ismail</h1>
+        <h2>Bachelor Degree in Computer Science (Software Engineering) with Honours</h2>
       </div>
     </main>
   )
